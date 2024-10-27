@@ -14,7 +14,7 @@ export default function Home() {
   useEffect(() => {
     async function fetchCSVData() {
       try {
-        const response = await fetch("/Electric_Vehicle_Population_Data.csv");
+        const response = await fetch("/data-to-visualize/data.csv");
         if (!response.ok) throw new Error("Network response was not ok");
         const csvText = await response.text();
 
