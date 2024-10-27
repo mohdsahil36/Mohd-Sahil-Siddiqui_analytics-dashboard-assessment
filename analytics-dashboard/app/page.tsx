@@ -32,7 +32,7 @@ export default function Home() {
           },
         });
       } catch (error) {
-        setError("Error fetching CSV: ");
+        setError("Error fetching CSV:"+ error);
         setLoading(false);
       }
     }

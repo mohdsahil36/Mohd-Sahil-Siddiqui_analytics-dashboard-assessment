@@ -48,7 +48,7 @@ export default function DataTable({ data }: DataTableProps) {
                             <tr className="bg-[#0056b3] text-[#ffffff] p-5">
                                 {keyFields.map((field, index) => (
                                     <th
-                                        key={field}
+                                        key={index}
                                         className="p-2 text-left border-b border-[#0056b3] font-semibold uppercase text-center"
                                         // style={{ width: index === 0 ? '20%' : '15%' }}
                                     >
