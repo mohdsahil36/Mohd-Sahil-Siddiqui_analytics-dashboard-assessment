@@ -43,3 +43,14 @@ Your submission will be evaluated based on:
   - ajayap@mapupa.ai
   - divyanshs@mapup.ai
 - Finally, please fill out the google form that you received via email to submit the assessment for review.
+
+## My Submission
+I am not able to deploy the dashboard to deployment. 
+Hence attaching some screenshots for reference.
+- Used a reduced dataset for plotting and representation.
+
+![Analytics-Dashboard](https://github.com/user-attachments/assets/e4c9a186-b6e3-47c3-84da-698940654997)
+![Dashboard2](https://github.com/user-attachments/assets/fd83d5b0-4220-4ce5-932c-0a54f93543c0)
+![Capture3](https://github.com/user-attachments/assets/eb74e801-5a49-4d40-92f4-4674fc3deb5d)
+
+
